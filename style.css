@@ -74,7 +74,7 @@ section{
     padding: 50px;
 }
 
-section h2{
+section h1{
     color: var(--v-l-gray);
     font-family: var(--h-font);
     font-weight: 700;
